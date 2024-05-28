@@ -1,0 +1,15 @@
+E:\git\Text-Mining\Src\bin\Debug\net8.0\Src.exe
+E:\git\Text-Mining\Src\bin\Debug\net8.0\Src.deps.json
+E:\git\Text-Mining\Src\bin\Debug\net8.0\Src.runtimeconfig.json
+E:\git\Text-Mining\Src\bin\Debug\net8.0\Src.dll
+E:\git\Text-Mining\Src\bin\Debug\net8.0\Src.pdb
+E:\git\Text-Mining\Src\obj\Debug\net8.0\Src.GeneratedMSBuildEditorConfig.editorconfig
+E:\git\Text-Mining\Src\obj\Debug\net8.0\Src.AssemblyInfoInputs.cache
+E:\git\Text-Mining\Src\obj\Debug\net8.0\Src.AssemblyInfo.cs
+E:\git\Text-Mining\Src\obj\Debug\net8.0\Src.csproj.CoreCompileInputs.cache
+E:\git\Text-Mining\Src\obj\Debug\net8.0\Src.sourcelink.json
+E:\git\Text-Mining\Src\obj\Debug\net8.0\Src.dll
+E:\git\Text-Mining\Src\obj\Debug\net8.0\refint\Src.dll
+E:\git\Text-Mining\Src\obj\Debug\net8.0\Src.pdb
+E:\git\Text-Mining\Src\obj\Debug\net8.0\Src.genruntimeconfig.cache
+E:\git\Text-Mining\Src\obj\Debug\net8.0\ref\Src.dll
